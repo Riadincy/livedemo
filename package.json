@@ -4,7 +4,6 @@
   "version": "0.0.0",
   "type": "module",
   "homepage": "https://Riadincy.github.io/your-repo-name",
-
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -12,10 +11,7 @@
     "preview": "vite preview",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
-
-
   },
-  
   "dependencies": {
     "@tailwindcss/vite": "^4.1.6",
     "classnames": "^2.5.1",
